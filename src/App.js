@@ -5,7 +5,9 @@ import NameGenerator from "./components/NameGenerator/NameGenerator";
 function App() {
     return (
         <div className="App">
-            <NameGenerator/>
+            <NameGenerator
+            names ={["rick", "john", "tom", "richard"]}
+            />
         </div>
     );
 }

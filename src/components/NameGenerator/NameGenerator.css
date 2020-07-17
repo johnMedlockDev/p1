@@ -1,3 +1,12 @@
 .NameGenerator{
+text-align: center;
+}
 
+
+p{
+    text-transform: capitalize;
+}
+
+h1{
+    font-style: italic;
 }
